@@ -3,15 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kosehy1.github.io/categories/</loc>
+    <loc>http://kosehy1.netlify.app/</loc>
+    <lastmod>2020-11-27T01:05:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kosehy1.github.io/</loc>
+    <loc>http://kosehy1.netlify.app/posts/my-second-post/</loc>
+    <lastmod>2020-11-27T01:05:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kosehy1.github.io/tags/</loc>
+    <loc>http://kosehy1.netlify.app/posts/</loc>
+    <lastmod>2020-11-27T01:05:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kosehy1.netlify.app/posts/my-first-post/</loc>
+    <lastmod>2020-11-27T00:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kosehy1.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kosehy1.netlify.app/tags/</loc>
   </url>
   
 </urlset>
