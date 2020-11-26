@@ -2,3 +2,12 @@ baseURL = "http://kosehy1.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+defaultContentLanguage = "en"
+
+[languages]
+    [languages.en]
+        title = "my blog!"
+        weight = 1
+    [langeuges.kr]
+        title = "내 블로그!"
+        weight = 2
